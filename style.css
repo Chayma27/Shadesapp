@@ -1,4 +1,8 @@
 p
 {
-color : blue ;
+   color : blue ;
+}
+h1,em
+{
+   color: red ;
 }
