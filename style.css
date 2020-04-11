@@ -1,45 +1,7 @@
-h1
+. Bonjour
 {
-   color: blue ;
+	couleur : vert ;
 }
-.Bonjour
+. super
 {
-	color : green;
-}
-.super
-{
-	color: grey;
-}
-.ViePerso
-{
-	color: red;
-}
-.ans
-{
-    color: purple;
-}
-.mois
-{
-    color: orange;
-}
-.jours
-{
-    color: pink;
-}
-
-.coeur
-{
-    color: red;
-}
-em
-{
-	color: red;
-}
-.lion
-{
-	color: brown ;
-}
-h2
-{
-    color: orange;	
-}
+	couleur : jaune;
