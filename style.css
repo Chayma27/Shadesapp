@@ -1,10 +1,6 @@
-p
+h1
 {
-   color : blue ;
-}
-h1,em
-{
-   color: red ;
+   color: blue ;
 }
 .Bonjour
 {
@@ -12,5 +8,38 @@ h1,em
 }
 .super
 {
-	color: yellow;
+	color: grey;
+}
+.ViePerso
+{
+	color: red;
+}
+.ans
+{
+    color: purple;
+}
+.mois
+{
+    color: orange;
+}
+.jours
+{
+    color: pink;
+}
+
+.coeur
+{
+    color: red;
+}
+em
+{
+	color: red;
+}
+.lion
+{
+	color: brown ;
+}
+h2
+{
+    color: orange;	
 }
