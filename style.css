@@ -23,3 +23,7 @@ em
 	font-weight : bold;
 	text-decoration: underline;
 }
+.imageflottante
+{
+	float: left;
+}
