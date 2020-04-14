@@ -16,7 +16,8 @@ h1
 {
 	font-style: italic;
 	text-align: center;
-		background-image: url(chiendeAslen.jpg);
+	background-image: url(chiendeAslen.jpg);
+    background-position: 50px 80px;
 }
 em
 {
