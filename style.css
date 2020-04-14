@@ -2,9 +2,11 @@
 {
 	color : green;
 	font-size: 1.5em;
+	font-family: Comic Sans MS;
 }
 .super
 {
 	color : yellow;
-	font-size: 16px;
+	font-size: 22px;
+	font-family: Impact;
 }
