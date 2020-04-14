@@ -16,3 +16,9 @@ h1
 {
 	font-style: italic;
 }
+em
+{
+	color: brown;
+	font-weight : bold;
+	text-decoration: underline;
+}
