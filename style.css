@@ -5,6 +5,7 @@
 	font-family: "Comic Sans MS";
 	font-weight: bold;
 	border: 3px brown dashed;
+
 }
 .super
 {
@@ -32,6 +33,7 @@ em
 {
 	float: left;
 	border-radius: 10px;
+	box-shadow: 6px 6px 6px black;
 }
 body
 {
