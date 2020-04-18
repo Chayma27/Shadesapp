@@ -8,6 +8,17 @@
 	text-shadow: 2px 2px 4px black;
 
 }
+.introduction { 
+color: purple;
+font-style: italic;
+font-size: 30px;
+ }
+ .paragraphe { 
+color: black;
+text-align: center;
+border: 1px solid purple;
+font-family: cursive;
+  }
 .super
 {
 	color : yellow;
