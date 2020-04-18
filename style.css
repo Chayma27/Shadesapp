@@ -49,3 +49,7 @@ a:hover
 	text-decoration: underline;
 	color: green;
 }
+.open:focus
+{
+	background-color: #FFCC66;
+}
