@@ -11,3 +11,8 @@ a:hover
 {
 	font-weight: bold;
 }
+ul
+{
+	border: 5px olive solid;
+	box-shadow: 6px 6px 6px black;
+}
