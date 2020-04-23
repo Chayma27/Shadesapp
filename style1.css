@@ -7,16 +7,27 @@ h1
 h2
 {
 	font-style: italic;
+	color: teal;
 }
 .Banque
 {
-	color: green;
+	color: maroon;
 }
 .Assurance
 {
-	color: lime;
+	color: maroon;
 }
 .Municipalité
 {
-	color: olive;
+	color: maroon;
+}
+.Année
+{
+	font-weight: bold;
+	color : navy;
+}
+.Type
+{
+	font-weight: bold;
+	color : navy;
 }
