@@ -1,7 +1,8 @@
 h1
 {
 	text-align: center;
-
+	background-image: url(codage.jpg);
+	background-position: 50px 80px;
 }
 .Banque
 {
