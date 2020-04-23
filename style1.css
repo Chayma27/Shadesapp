@@ -4,6 +4,10 @@ h1
 	background-image: url(codage.jpg);
 	background-position: 50px 80px;
 }
+h2
+{
+	font-style: italic;
+}
 .Banque
 {
 	color: green;
