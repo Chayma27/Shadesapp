@@ -41,7 +41,7 @@ em
 	border-left: 2px solid purple;
 	border-right: 2px solid purple;
 }
-.imageflottante
+.imageflottante:hover
 {
 	float: left;
 	border-radius: 10px;
@@ -54,4 +54,14 @@ body
 mark
 {
 	background-color: red;
+}
+
+a:hover
+{
+	text-decoration: underline;
+	color: green;
+}
+.open:focus
+{
+	background-color: #FFCC66;
 }

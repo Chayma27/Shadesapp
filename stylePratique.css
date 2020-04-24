@@ -1,0 +1,18 @@
+h1
+{
+	color: red;
+	font-size: 3em;
+}
+p
+{
+	text-align: center;
+}
+a:hover
+{
+	font-weight: bold;
+}
+ul
+{
+	border: 5px olive solid;
+	box-shadow: 6px 6px 6px black;
+}

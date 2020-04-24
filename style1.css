@@ -1,0 +1,53 @@
+h1
+{
+	text-align: center;
+	background-image: url(codage.jpg);
+	background-position: 50px 80px;
+}
+h2
+{
+	font-style: italic;
+	color: teal;
+}
+.Banque
+{
+	color: maroon;
+}
+.Assurance
+{
+	color: maroon;
+}
+.Municipalité
+{
+	color: maroon;
+}
+.Année
+{
+	font-weight: bold;
+	color : navy;
+}
+.Type
+{
+	font-weight: bold;
+	color : navy;
+}
+.competence
+{
+	font-weight: bold;
+	color: purple;
+}
+.Numerotation
+{
+	color: olive;
+	font-weight: bold
+}
+a:hover
+{
+	text-decoration: underline;
+	color: green;
+}
+.forma
+{
+	font-weight: bold;
+	color : navy;
+}
