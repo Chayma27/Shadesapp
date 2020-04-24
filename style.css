@@ -30,9 +30,9 @@ em
 	border-left: 2px solid purple;
 	border-right: 2px solid purple;
 }
-.imageflottante:hover
+.imageflottante
 {
-	float: left;
+
 	border-radius: 10px;
 	box-shadow: 6px 6px 6px black;
 }
