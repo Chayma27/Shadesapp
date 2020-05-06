@@ -9,8 +9,8 @@ p
 #conteneur
 {
     border: 1px solid black;
-    display : flex;
-    flex-direction: column-reverse;
+    display: flex;
+    justify-content: space-between;
     padding: 14px;
     margin: 70px
 }
