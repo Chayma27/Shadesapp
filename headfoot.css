@@ -35,5 +35,6 @@ nav
 
 section
 {
+	margin-left: 170px;
     border: 1px solid blue;
 }
