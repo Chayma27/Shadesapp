@@ -34,8 +34,11 @@ body
 
 #bloc_page
 {
-    width: 900%;
-    margin: auto;
+
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    width: 100%;
 }
 
 section h1, footer h1, nav a
