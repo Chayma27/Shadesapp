@@ -130,10 +130,11 @@ nav a:hover
     margin-top: 15px;
     height: 200px;
     border-radius: 5px;
-    background: url('C:/Users/Chayma/Desktop/TravailChayma/openclassroom/TpZozor/tp_images_polices/images/sanfrancisco.jpg') no-repeat;
+    background: url('C:/Users/Chayma/Desktop/TravailChayma/openclassroom/TpZozor/tp_images_polices/images/sanfrancisco.jpg');
     position: relative;
     box-shadow: 0px 4px 4px #1c1a19;
     margin-bottom: 25px;
+
 }
 
 #banniere_description
